@@ -1,2 +1,2 @@
 # NotFlix
-Netflix Low-Level Front End Implementation
+Streaming Platform Low-Level Front End Implementation
